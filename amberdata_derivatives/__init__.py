@@ -1,1 +1,1 @@
-from .amberdata import Amberdata
+from .amberdata import AmberdataDerivatives

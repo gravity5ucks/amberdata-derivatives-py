@@ -10,7 +10,7 @@ setup(
     author='Amberdata',
     author_email='fabio.bassani@amberdata.io',
     #url='https://github.com/tuo_username/amberdata-derivatives',
-    url='https://github.com/gravity5ucks/amberdata-derivatives',
+    url='https://github.com/gravity5ucks/amberdata-derivatives-py',
     install_requires=[
         'requests',
     ],

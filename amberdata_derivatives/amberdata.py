@@ -1,6 +1,6 @@
 import requests
 
-class Amberdata:
+class AmberdataDerivatives:
     def __init__(self, api_key: str):
         self._base_url = "https://api.amberdata.com"
         self._headers = {
